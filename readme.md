@@ -1,5 +1,5 @@
 ### A mini application that generates 1000 random / different codes.
-### (click here to see how it works)[https://marekzemla.github.io/Code-generator/]
+### [click here to see how it works](https://marekzemla.github.io/Code-generator/)
 ### //1.  I am creating a constant variable with characters that will be used to create the codes later
 ### //2.  I download the button and section
 ### //3. I create constant variables containing the number of codes that will be generated and how many characters each code will consist of.
